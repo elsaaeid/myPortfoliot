@@ -11,8 +11,13 @@ import Port5 from '../../assets/port5.png';
 import Port6 from '../../assets/port6.png';
 import Port7 from '../../assets/port7.png';
 import port8 from '../../assets/port8.PNG';
-import port9 from '../../assets/port9.PNG';
 import port10 from '../../assets/port10.PNG';
+import port12 from '../../assets/port12.PNG';
+import port13 from '../../assets/port13.PNG';
+import port14 from '../../assets/port14.PNG';
+import port15 from '../../assets/port15.PNG';
+import port16 from '../../assets/port16.png';
+
 
 import graph1 from '../../assets/1.jpg';
 import graph2 from '../../assets/2.jpg';
@@ -59,18 +64,18 @@ const webData =  [
   {
    id: 5,
    webImage: Port5,
-   webTitle: 'Alkasr Studio',
+   webTitle: 'Studio Alkasr',
    webDesc: 'responsive website using (html,css,bootstrap,javascript)',
-   webGithub: 'https://github.com/elsaaeid/studio-alkasr',
-   webDemo: 'https://elsaaeid.github.io/studio-alkasr/'
+   webGithub: ' https://github.com/elsaaeid/Studio-Alkasr',
+   webDemo: 'https://elsaaeid.github.io/Studio-Alkasr/'
  },
   {
    id: 6,
    webImage: Port6,
-   webTitle: 'Prush for decore paints',
+   webTitle: 'it-next',
    webDesc:'responsive website using (html,css,bootstrap,javascript)',
-   webGithub: 'https://github.com/elsaaeid/folazy',
-   webDemo: 'https://elsaaeid.github.io/folazy/'
+   webGithub: 'https://github.com/elsaaeid/it-next',
+   webDemo: 'https://elsaaeid.github.io/it-next/'
  },
   {
    id: 7,
@@ -89,20 +94,52 @@ const webData =  [
   webDemo: 'https://elsaaeid.github.io/counter/'
 },
 {
-  id: 9,
-  webImage: port9,
-  webTitle: 'Tutorial',
-  webDesc: 'responsive website using (html,css,javaScript)',
-  webGithub: 'https://github.com/elsaaeid/tutorial',
-  webDemo: 'https://elsaaeid.github.io/tutorial/'
-},
-{
   id: 10,
   webImage: port10,
   webTitle: 'ForestCompany',
   webDesc: 'responsive website using (html,css,javaScript)',
   webGithub: 'https://github.com/elsaaeid/forest-company',
   webDemo: 'https://elsaaeid.github.io/forest-company/'
+},
+{
+  id: 12,
+  webImage: port12,
+  webTitle: 'Creative-Portfolio',
+  webDesc: 'responsive website using (html,css,javaScript)',
+  webGithub: 'https://github.com/elsaaeid/Creative-Portfolio',
+  webDemo: 'https://elsaaeid.github.io/Creative-Portfolio/'
+},
+{
+  id: 13,
+  webImage: port13,
+  webTitle: 'two-portfolio',
+  webDesc: 'responsive website using (html,css,javaScript)',
+  webGithub: 'https://github.com/elsaaeid/two-portfolio',
+  webDemo: 'https://elsaaeid.github.io/two-portfolio/'
+},
+{
+  id: 14,
+  webImage: port14,
+  webTitle: 'CRUD',
+  webDesc: 'responsive website using (html,css,javaScript)',
+  webGithub: 'https://github.com/elsaaeid/CRUD',
+  webDemo: 'https://elsaaeid.github.io/CRUD/'
+},
+{
+  id: 15,
+  webImage: port15,
+  webTitle: 'login--logout',
+  webDesc: 'responsive website using (html,css,javaScript)',
+  webGithub: 'https://github.com/elsaaeid/login--logout',
+  webDemo: 'https://elsaaeid.github.io/login--logout/'
+},
+{
+  id: 16,
+  webImage: port16,
+  webTitle: 'weather-app',
+  webDesc: 'responsive website using (html,css,javaScript)',
+  webGithub: 'https://github.com/elsaaeid/weather-app',
+  webDemo: 'https://elsaaeid.github.io/weather-app/'
 },
 ]
 
